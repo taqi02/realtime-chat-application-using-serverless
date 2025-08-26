@@ -85,7 +85,7 @@ Login Page
 <img width="1919" height="1026" alt="Image" src="https://github.com/user-attachments/assets/3dd13dda-70e5-4d7d-8eb9-6b2cd4179311" />
 
 Chat Window
-(Add screenshots after running your app)
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/6d04d73e-1132-4094-b913-1baca5829b4b" />
 
 ---
 
