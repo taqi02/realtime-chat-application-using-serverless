@@ -1,4 +1,4 @@
-# 📌 Firebase Real-Time Chat Application  
+# Firebase Real-Time Chat Application  
 
 A simple **real-time chat app** built with **HTML, CSS, JavaScript, and Firebase**.  
 The app allows users to **log in with email & password**, send messages, and see updates instantly thanks to **Firestore’s real-time database**.  
