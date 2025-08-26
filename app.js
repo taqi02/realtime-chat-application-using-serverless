@@ -1,13 +1,6 @@
 // ==== Firebase Config ====
-const firebaseConfig = {
-  apiKey: "AIzaSyCh8sKjnb6bM51nDZoRGqIJPAAUJRnmgwA",
-  authDomain: "chat-application-9733b.firebaseapp.com",
-  projectId: "chat-application-9733b",
-  storageBucket: "chat-application-9733b.firebasestorage.app",
-  messagingSenderId: "259346580645",
-  appId: "1:259346580645:web:194d3be4f02e75e241b94c",
-  measurementId: "G-0CFFPMH0R5"
-};
+
+// ====your firebase credentials === 
 
 // ==== Initialize Firebase ====
 firebase.initializeApp(firebaseConfig);
