@@ -25,6 +25,7 @@ The app allows users to **log in with email & password**, send messages, and see
 ## 📂 Project Structure
 
 chat-app/
+
 ├── index.html # Main page (Login + Chat UI)
 
 ├── style.css # Styles for login + chat UI
